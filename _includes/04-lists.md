@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Here of a list of my favorite things
+- Mary
+- Trixie
